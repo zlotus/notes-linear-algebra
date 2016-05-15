@@ -30,7 +30,7 @@
 - 第14集 [正交向量与子空间](chapter14.ipynb)
 - 第15集 [子空间投影](chapter15.ipynb)
 - 第16集 [投影矩阵和最小二乘](chapter16.ipynb)
-- 第17集 正交矩阵和Gram-Schmidt正交化
+- 第17集 [正交矩阵和Gram-Schmidt正交化](chapter17.ipynb)
 - 第18集 行列式及其性质
 - 第19集 行列式公式和代数余子式
 - 第20集 克拉默法则、逆矩阵、体积
