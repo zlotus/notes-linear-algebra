@@ -50,4 +50,4 @@
 - 第34集 [左右逆和伪逆](chapter34.ipynb)
 - 第35集 [期末复习](chapter35.ipynb)
 
-笔记格式参考[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)
+笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
