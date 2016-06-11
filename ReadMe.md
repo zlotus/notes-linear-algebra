@@ -48,6 +48,6 @@
 - 第32集 [基变换和图像压缩](chapter32.ipynb)
 - 第33集 [单元检测3复习](chapter33.ipynb)
 - 第34集 [左右逆和伪逆](chapter34.ipynb)
-- 第35集 期末复习
+- 第35集 [期末复习](chapter35.ipynb)
 
 笔记格式参考[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)
