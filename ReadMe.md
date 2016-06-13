@@ -16,7 +16,7 @@
 
 - 第01集 [方程组的几何解释](chapter01.ipynb)
 - 第02集 [矩阵消元](chapter02.ipynb)
-- 第03集 乘法和逆矩阵
+- 第03集 [乘法和逆矩阵](chapter03.ipynb)
 - 第04集 [A的LU分解](chapter04.ipynb)
 - 第05集 [转置-置换-向量空间R](chapter05.ipynb)
 - 第06集 [列空间和零空间](chapter06.ipynb)
